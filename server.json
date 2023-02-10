@@ -5,16 +5,80 @@
       "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
-      "price": 14000,
-      "createdAt": "2023-02-09T03:12:04.473Z"
+      "price": 12000,
+      "createdAt": "2023-04-13T03:12:04.473Z"
     },
     {
       "id": 2,
       "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 50,
-      "createdAt": "2023-02-09T03:12:04.473Z"
+      "price": 59,
+      "createdAt": "2023-04-10T03:12:04.473Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel do apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "createdAt": "2023-03-27T03:12:04.473Z"
+    },
+    {
+      "id": 4,
+      "description": "Computador",
+      "type": "income",
+      "category": "Venda",
+      "price": 5400,
+      "createdAt": "2023-03-15T03:12:04.473Z"
+    },
+    {
+      "id": 5,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 8000,
+      "createdAt": "2023-03-13T03:12:04.473Z"
+    },
+    {
+      "id": 6,
+      "description": "Janta",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 39,
+      "createdAt": "2023-03-10T03:12:04.473Z"
+    },
+    {
+      "id": 7,
+      "description": "Aluguel do apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "createdAt": "2023-02-27T03:12:04.473Z"
+    },
+    {
+      "id": 8,
+      "description": "Salário",
+      "type": "income",
+      "category": "Salário",
+      "price": 5400,
+      "createdAt": "2023-02-15T03:12:04.473Z"
+    },
+    {
+      "id": 9,
+      "description": "Almoço",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 39,
+      "createdAt": "2023-02-05T03:12:04.473Z"
+    },
+    {
+      "id": 10,
+      "description": "Fone de ouvido",
+      "type": "outcome",
+      "category": "Itens",
+      "price": 150,
+      "createdAt": "2023-02-02T03:12:04.473Z"
     }
   ]
 }
