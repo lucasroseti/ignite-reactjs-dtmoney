@@ -79,6 +79,30 @@
       "category": "Itens",
       "price": 150,
       "createdAt": "2023-02-02T03:12:04.473Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-02-11T00:30:13.360Z",
+      "id": 11
+    },
+    {
+      "description": "Iorgute de banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-11T00:42:01.949Z",
+      "id": 12
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-02-11T00:43:43.167Z",
+      "id": 13
     }
   ]
 }
